@@ -1,5 +1,8 @@
 # Firefox Infinity Tab
 
+![Firefox Infinity Tab](poc.gif "Firefox Infinity Tab")
+
+
 A issue has been identified where a combination of a bug in Mozilla Firefox and a misconfiguration in the xdg-mime default applications settings can trigger an infinite loop of tab openings in Firefox. This behavior can render the browser unusable and may lead to system instability due to excessive resource consumption.
 
 ## Features
